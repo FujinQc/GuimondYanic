@@ -165,7 +165,14 @@
     width: 30%;
     padding: 1%;
 }
-
+.about3
+{
+    width: 15%;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 .texte
 {
     background-color: rgba(255, 255, 255, 0.61);
